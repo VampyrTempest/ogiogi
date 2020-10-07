@@ -1,0 +1,338 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+  padding-top: 34px;
+}
+
+.company{
+	padding-top: 24px;
+	display: block;
+}
+
+.Titulo{
+	font-family: 'Monstserrat', sans-serif;
+	  margin-bottom: 17px;
+	  font-size: 44px;
+	  color: #141720;
+	  font-weight: bold;
+	  
+}
+
+.centro{
+	 width: 100%;
+  height: 615px;
+  display: flex;
+  align-items: center; 
+}
+
+.nav-link {
+  color: #5d5f65;
+  font-size: 16px;
+  padding: 0.5rem 0.8rem;
+}
+
+.sección-about-us{
+	
+	padding-top:245px ;
+	padding-bottom:241px ;
+	background-color: #141720;
+	color: #fff;
+	position: relative;
+	padding-right: 117px;
+	padding-left: 153px;
+}
+
+.imagen-dos-secciones{
+	width: 50%;
+  height: 740px;
+  background: url(../images/imagen-dos-secciones.jpg);
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.linea{
+	position: absolute;
+	width: 4px;
+	height: 490px;
+	left: 63.5px;
+	top: 0px;
+	background: #D4D4D4;
+}
+.timeline{
+
+position: absolute;
+width: 991px;
+height: 511px;
+right: 154px;
+top: 1400px;
+
+}
+
+.textouno{
+	position: absolute;
+	width: 450px;
+	height: 234px;
+	left: 1px;
+	top: 80px;
+
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 26px;
+	letter-spacing: 0.5px;
+	color: #5D5F65;
+}
+.timelinea{
+	position: absolute;
+	width: 260px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	line-height: 26px;
+	letter-spacing: 1px;
+
+	color: #2B2B2B;
+}
+.timelinea{
+	position: absolute;
+	width: 261px;
+	height: 511px;
+	left: 0px;
+	top: 0px;
+
+}
+.Contenido{
+	position: absolute;
+	width: 451px;
+	height: 314px;
+	left: 540px;
+	top: 142px;
+
+}
+.año2003{
+	position: absolute;
+	width: 46px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 26px;
+	color: #C71222;
+}
+.time2003{
+	position: absolute;
+	width: 236px;
+	height: 19px;
+	left: 0px;
+	top: 151px;
+}
+.Started{
+	position: absolute;
+	width: 146px;
+	height: 26px;
+	left: 90px;
+	top: 0px;
+
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 26px;
+	color: #141720;
+
+}
+.Ovalo2003{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 57px;
+	top: 1px;
+	background: #FFFFFF;
+	border: 4px solid #C71222;
+}
+.Ovalounder2003{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 57px;
+	top: 1px;
+	background: #FFFFFF;
+	border: 6px solid #FFFFFF;
+}
+.time2006{
+	position: absolute;
+	width: 261px;
+	height: 19px;
+	left: 0px;
+	top: 231px;
+
+}
+.año2006{
+	position: absolute;
+	width: 46px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 26px;
+	color: #D4D4D4;
+
+}
+.ImportantDateOne{
+
+	position: absolute;
+	width: 171px;
+	height: 26px;
+	left: 90px;
+	top: 0px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 26px;
+	color: #141720;
+}
+.Ovalo2006{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 57px;
+	top: 1px;
+	background: #FFFFFF;
+	border: 4px solid #D4D4D4;
+
+}
+.Ovalounder2006{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 57px;
+	top: 1px;
+	background: #FFFFFF;
+	border: 6px solid #FFFFFF;
+
+}
+.time2010{
+	position: absolute;
+	width: 258px;
+	height: 19px;
+	left: 0px;
+	top: 332px;
+
+}
+.año2010{
+	position: absolute;
+	width: 46px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 26px;
+	color: #D4D4D4;
+
+}
+.ImportantDate{
+	position: absolute;
+	width: 168px;
+	height: 52px;
+	left: 90px;
+	top: 0px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 26px;
+	color: #141720;
+
+}
+.Ovalo2010{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 57px;
+	top: 1px;
+	background: #FFFFFF;
+	border: 4px solid #D4D4D4;
+
+}
+.Ovalounder2010{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 57px;
+	top: 1px;
+	background: #FFFFFF;
+	border: 6px solid #FFFFFF;
+}
+.time2016{
+	position: absolute;
+	width: 236px;
+	height: 19px;
+	left: 0px;
+	top: 492px;
+}
+.año2016{
+	position: absolute;
+	width: 46px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 26px;
+	color: #D4D4D4;
+
+}
+.CurrentTime{
+	position: absolute;
+	width: 146px;
+	height: 26px;
+	left: 90px;
+	top: 0px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 26px;
+	color: #141720;
+
+}
+.Ovalo2016{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 57px;
+	top: 1px;
+	background: #FFFFFF;
+	border: 4px solid #D4D4D4;
+}
+.Ovalounder2016{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 57px;
+	top: 1px;
+	background: #FFFFFF;
+	border: 6px solid #FFFFFF;
+}
